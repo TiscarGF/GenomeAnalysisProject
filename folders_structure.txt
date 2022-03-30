@@ -1,0 +1,23 @@
+According to the Data management plan scheme folders (and subfolders):
+
+-Documentation
+
+-Code
+
+-Notebooks
+
+-Data
+
+--RawData
+
+--Metadata
+
+-Results
+
+--Figures
+
+--Tables
+
+--Reports
+
+-Scratch
