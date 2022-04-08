@@ -1,0 +1,7 @@
+Software: FastQC/0.11.9
+
+Data: genome_data/Illumina/*fq.gz
+
+Date: 08.04.22
+
+Comments: Both reads done. Output with clean in the name.
