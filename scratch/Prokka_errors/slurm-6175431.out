@@ -1,0 +1,12 @@
+[15:15:33] This is prokka 1.14.6
+[15:15:33] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[15:15:33] Homepage is https://github.com/tseemann/prokka
+[15:15:33] Local time is Fri Apr 29 15:15:33 2022
+[15:15:33] You are tiscargf
+[15:15:33] Operating system is linux
+[15:15:33] You have BioPerl 1.007001
+[15:15:33] System has 16 cores.
+[15:15:33] Will use maximum of 8 cores.
+[15:15:33] Annotating as >>> Bacteria <<<
+[15:15:33] ' ' is not a readable non-empty FASTA file
+/var/spool/slurmd/job6175431/slurm_script: line 19: assCanu_Efae.contigs.fasta: command not found

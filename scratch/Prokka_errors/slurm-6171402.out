@@ -1,0 +1,14 @@
+[17:26:39] This is prokka 1.14.6
+[17:26:39] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:26:39] Homepage is https://github.com/tseemann/prokka
+[17:26:39] Local time is Thu Apr 28 17:26:39 2022
+[17:26:39] You are tiscargf
+[17:26:39] Operating system is linux
+[17:26:39] You have BioPerl 1.007001
+[17:26:39] System has 16 cores.
+[17:26:39] Will use maximum of 8 cores.
+[17:26:39] Annotating as >>> Bacteria <<<
+[17:26:39] Generating locus_tag from 'assCanu_Efae.contigs.fasta' contents.
+[17:26:39] Setting --locustag MDLOOKAE from MD5 6d5884ae275934beb25f74a9bb60dc40
+[17:26:39] Folder 'PROKKA_04282022' already exists! Please change --outdir or use --force
+/var/spool/slurmd/job6171402/slurm_script: line 18: --force: command not found
