@@ -1,0 +1,12 @@
+#interactive session
+#interactive -A uppmax2022-2-5 -M snowy -p core -n 2 -t 03:00:00 --reservation uppmax2022-2-5_12
+
+#load modules
+#module load bioinfo-tools R_package RStudio
+
+#commands
+#rstudio
+#work from the virtual Rstudio
+
+ 
+##end file
