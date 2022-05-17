@@ -1,0 +1,13 @@
+#interactive session
+#interactive -A uppmax2022-2-5 -M snowy -p core -n 2 -t 03:00:00 --reservation uppmax2022-2-5_13
+
+#load modules
+#module load bioinfo-tools artemis
+
+
+#options
+#starting ACT with flags: -mx500m -ms20m -noverify
+#seq1 is Prokka.fna annotated genome
+#comparison seq is the Blast_reference_to_annotated_genome.fasta
+#seq2 is the reference genome.fasta 
+
